@@ -1,0 +1,111 @@
+body{
+	position: relative;
+}
+h1{
+font-family: 'Montserrat', sans-serif;
+}
+#servico{
+	text-align: center;
+
+}
+#port{
+	box-shadow: 1px 1px 1px 3px #333;
+	background-color:#222;
+	margin-top:5%;
+}
+#port h1{
+	text-align: center;
+	color: #eee;
+}
+#team h1{
+	text-align: center;
+}
+#team{
+	background-color: #eee;
+}
+#contato{
+	background-color: #0f0f0f;
+	padding-bottom: 1%;
+	box-shadow: 1px 1px 1px 3px #333;
+}
+#contato h1{
+	text-align: center;
+	color: #eee;
+}
+#bt{
+	text-align: center;
+}
+#bt input[type=submit]{
+	background-color: #e63a17;
+	padding: 2%;
+	border:none;
+	color: #eee;
+	font-family: 'Metrophobic', Arial, serif; font-weight: 700; 
+	font-style: 18px;
+}
+#bt button{
+	background-color: #e63a17;
+	padding: 2%;
+	border:none;
+	color: #eee;
+	font-style: 18px;
+}
+#bt button:hover{
+	text-decoration: underline;
+}
+#bt input[type=submit]:hover{
+	text-decoration: underline;
+}
+#copi{
+	text-align: center;
+	font-family: 'Metrophobic', Arial, serif; font-weight: 700;
+	color: #222222;
+}
+footer{
+	margin-top: 3%;
+	border-bottom: 4px solid #222;
+	padding-bottom: 1%;
+}
+#textdesc{
+	text-align: center;
+	font-family: 'Droid Serif', serif;
+	color: #838383;
+}
+li{
+	list-style: none;
+	display: inline;
+}
+ul li a{
+	background-color: #e63a17;
+	font-family: 'Metrophobic', Arial, serif; font-weight: 700;
+}
+ul li a:hover{
+	background-color: #fff;
+}
+#men{
+	color: #fff;
+}
+.carousel-caption{
+	font-family: 'Droid Serif', serif;
+}
+button#social{
+	border-radius: 55%;
+	border:none;
+	background-color: #222;
+	transition-duration: 1s;
+}
+button#social:hover{
+	background-color: #e63a17;
+}
+#btport{
+	background-color: #222;
+	padding: 2%;
+	border:none;
+	color: #eee;
+	font-style: 18px;
+	border-radius: 5px;
+	transition-duration: 1s;
+}
+#btport:hover{
+	background-color: #e63a17;
+}
